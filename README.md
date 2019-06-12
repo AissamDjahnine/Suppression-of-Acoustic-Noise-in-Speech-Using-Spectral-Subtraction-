@@ -21,15 +21,15 @@ This program was tested on a Noisy sound file : [Mix.wav]() , it might not give 
 
 **Original noisy file :**
 
-<img src="https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/files./Spectrogram_Noisy_file.jpg" >
+<img src="https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/files./Spectrogram_Noisy.jpg" >
 
 **Spectral Subtraction Estimator , Half- Wave Rectification :**
 
-<img src="https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/files./Spectrogram_noisy_file_phase1.jpg" >
+<img src="https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/files./Spectrogram_noisy_phase1.jpg" >
 
 **Residual Noise Reduction :**
 
-<img src="https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/files./Spectrogram_clean_file.jpg" >
+<img src="https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/files./Spectrogram_clean.jpg" >
 
 ## Documentation & ressources : 
 
