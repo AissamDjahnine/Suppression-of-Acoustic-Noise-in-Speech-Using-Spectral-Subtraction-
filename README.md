@@ -33,7 +33,7 @@ This program was tested on a Noisy sound file : [Mix.wav]() , it might not give 
 
 ## Documentation & ressources : 
 
-- You can find the article supporting this work in files : [Suppression of Acoustic Noise in Speech Using Spectral Subtraction](https://github.com/AissamDjahnine/ColorTransfer/blob/master/Djahnine_Aissam_Color_Transfer_in_Correlated_color_space.pdf) explaining the mathemathical model and the method used.
+- You can find the article supporting this work in files : [Suppression of Acoustic Noise in Speech Using Spectral Subtraction](https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/files./SuppressionofAcousticNoiseinSpeechUsingSpectral%20Substraction.pdf) explaining the mathemathical model and the method used.
 
 ## Authors
 
