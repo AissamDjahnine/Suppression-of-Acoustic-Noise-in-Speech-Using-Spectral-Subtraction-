@@ -10,7 +10,8 @@ Reduce the acoustic noise in a noisy sound file..
 * No Matlab toolboxes should be required for this program. 
            
 ## Execution & tests
-
+You find in the files :
+* Audio file Mix.wav : a noisy file
 * we implemented the functions that compte : 
   - Short-time Fourier transform ( MATLAB file : [STFT
   - Short-time Fourier Inverse transform
@@ -23,13 +24,17 @@ This program was tested on a Noisy sound file : [Mix.wav]() , it might not give 
 
 <img src="https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/files./Spectrogram_Noisy.jpg" >
 
+Listen to the original file: [click here to downlaod the .wav file](https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/files./mix.wav)
 **Spectral Subtraction Estimator , Half- Wave Rectification :**
 
 <img src="https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/files./Spectrogram_noisy_phase1.jpg" >
 
+Listen to the resultfile ( Phase 1 )  : [click here to downlaod the .wav file](https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/files./Mix_Noisy_phase1.wav)
 **Residual Noise Reduction :**
 
 <img src="https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/files./Spectrogram_clean.jpg" >
+
+Listen to the final result : [click here to downlaod the .wav file](https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/files./Mix_clean.wav)
 
 ## Documentation & ressources : 
 
