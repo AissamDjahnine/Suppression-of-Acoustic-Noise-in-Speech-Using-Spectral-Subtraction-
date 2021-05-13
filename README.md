@@ -16,7 +16,7 @@ You find in the files :
   - Short-time Fourier transform ( MATLAB file : [STFT.m](https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/STFT.m) )
   - Short-time Fourier Inverse transform ( MATLAB file :[iSTFT](https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/iSTFT.m) )
 
-This program was tested on a Noisy sound file : [Mix.wav](https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/files./mix.wav) , it might not give good results using other files. Since the algorithm considers that the noise is normally distributed. The detection of the **NOISE SPECTRUM** as part of the project should be done manually.However,an automatic method can be used to select the noisy region in an audio file ( this method was not treated in this project )
+Since the algorithm considers that the noise is normally distributed. The detection of the **NOISE SPECTRUM** as part of the project should be done manually. However, an automatic method can be used to select the noisy region in an audio file (this method was not treated in this project)
 
 ## Results ( Spectograms )
 
@@ -45,13 +45,8 @@ This program was tested on a Noisy sound file : [Mix.wav](https://github.com/Ais
 ## Authors
 
 **Djahnine Aissam**  
-- [Github Profile](https://github.com/AissamDjahnine)
 - [Linkedin Profile](https://www.linkedin.com/in/aissamdjahnine/)
 
-
-## Acknowledgments
-
-* Part of this job was supported by : Valentin Marcel  :thumbsup:
 
 
 
