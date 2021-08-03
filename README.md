@@ -42,12 +42,5 @@ Since the algorithm considers that the noise is normally distributed. The detect
 
 - You can find the article supporting this work in files : [Suppression of Acoustic Noise in Speech Using Spectral Subtraction](https://github.com/AissamDjahnine/Suppression-of-Acoustic-Noise-in-Speech-Using-Spectral-Subtraction-/blob/master/files./SuppressionofAcousticNoiseinSpeechUsingSpectral%20Substraction.pdf) explaining the mathemathical model and the method used.
 
-## Authors
-
-**Djahnine Aissam**  
-- [Linkedin Profile](https://www.linkedin.com/in/aissamdjahnine/)
-
-
-
 
 
